@@ -1,0 +1,39 @@
+https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/file-system/how-to-read-a-text-file-one-line-at-a-time
+
+Código da contagem:
+
+Abaixo o código completo da aplicação, extrair somente o método e colar em outro projeto:
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Final_CountDown_component
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+	//Aqui está o método para realizar a leitura do arquivo texto.
+            int counter = 0;
+            string line;
+
+            // Read the file and display it line by line.  
+            System.IO.StreamReader file =
+                new System.IO.StreamReader(@"C:\HP610_WIFI_Test_SW_Release_V1.0.1.8\log_WIFI_CC859072100516_20200114111510.txt");
+            while ((line = file.ReadLine()) != null)
+            {
+                System.Console.WriteLine(line);
+                counter++;
+            }
+
+            file.Close();
+            System.Console.WriteLine("There were {0} lines.", counter);
+            // Suspend the screen.  
+            System.Console.ReadLine();
+        }
+    }
+}
+

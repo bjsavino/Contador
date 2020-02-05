@@ -1,0 +1,28 @@
+C:\#Novos_Sistemas\Sistema_New\Final_CountDown\Final_CountDown\bin\Debug\Final_CountDown.exe.config
+C:\#Novos_Sistemas\Sistema_New\Final_CountDown\Final_CountDown\bin\Debug\Final_CountDown.exe
+C:\#Novos_Sistemas\Sistema_New\Final_CountDown\Final_CountDown\bin\Debug\Final_CountDown.pdb
+C:\#Novos_Sistemas\Sistema_New\Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.csprojAssemblyReference.cache
+C:\#Novos_Sistemas\Sistema_New\Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.Final_Count_Down.resources
+C:\#Novos_Sistemas\Sistema_New\Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.Properties.Resources.resources
+C:\#Novos_Sistemas\Sistema_New\Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.csproj.GenerateResource.cache
+C:\#Novos_Sistemas\Sistema_New\Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.exe
+C:\#Novos_Sistemas\Sistema_New\Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.pdb
+C:\#Novos_Sistemas\Sistema_New\2Final_CountDown\Final_CountDown\bin\Debug\Final_CountDown.exe.config
+C:\#Novos_Sistemas\Sistema_New\2Final_CountDown\Final_CountDown\bin\Debug\Final_CountDown.exe
+C:\#Novos_Sistemas\Sistema_New\2Final_CountDown\Final_CountDown\bin\Debug\Final_CountDown.pdb
+C:\#Novos_Sistemas\Sistema_New\2Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.csprojAssemblyReference.cache
+C:\#Novos_Sistemas\Sistema_New\2Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.Final_Count_Down.resources
+C:\#Novos_Sistemas\Sistema_New\2Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.Properties.Resources.resources
+C:\#Novos_Sistemas\Sistema_New\2Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.csproj.GenerateResource.cache
+C:\#Novos_Sistemas\Sistema_New\2Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.exe
+C:\#Novos_Sistemas\Sistema_New\2Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.pdb
+\\10.57.94.50\app\#Ajuste Sistema\Final CountDown\2Final_CountDown\Final_CountDown\bin\Debug\Final_CountDown.exe.config
+\\10.57.94.50\app\#Ajuste Sistema\Final CountDown\2Final_CountDown\Final_CountDown\bin\Debug\Final_CountDown.exe
+\\10.57.94.50\app\#Ajuste Sistema\Final CountDown\2Final_CountDown\Final_CountDown\bin\Debug\Final_CountDown.pdb
+\\10.57.94.50\app\#Ajuste Sistema\Final CountDown\2Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.csprojAssemblyReference.cache
+\\10.57.94.50\app\#Ajuste Sistema\Final CountDown\2Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.Final_Count_Down.resources
+\\10.57.94.50\app\#Ajuste Sistema\Final CountDown\2Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.Properties.Resources.resources
+\\10.57.94.50\app\#Ajuste Sistema\Final CountDown\2Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.csproj.GenerateResource.cache
+\\10.57.94.50\app\#Ajuste Sistema\Final CountDown\2Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.csproj.CoreCompileInputs.cache
+\\10.57.94.50\app\#Ajuste Sistema\Final CountDown\2Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.exe
+\\10.57.94.50\app\#Ajuste Sistema\Final CountDown\2Final_CountDown\Final_CountDown\obj\Debug\Final_CountDown.pdb
